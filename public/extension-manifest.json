@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Create React Chrome Extension - TypeScript",
+  "name": "Yummi-wallet",
   "version": "0.1.0",
-  "description": "A lightweight boilerplate for building a Chrome extension with React, TypeScript and Webpack.",
-  "author": "Jakub Pixochi Kozak",
+  "description": "A Chrome extension for Crypto Wallet",
+  "author": "Henry Johnson",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
