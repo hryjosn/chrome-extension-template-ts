@@ -1,0 +1,55 @@
+{
+    "editor.fontFamily": "Fira Code, \"MesloLGS NF\"",
+    "editor.fontLigatures": true,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "files.exclude": {
+        "/node_modules/": true
+    },
+    "search.exclude": {
+        "android/": true,
+        "ios": true,
+        "/node_modules/": true
+    },
+    "eslint.packageManager": "yarn",
+    "eslint.run": "onSave",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "editor.tabSize": 4,
+        "editor.formatOnSave": false,
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "editor.formatOnSave": false,
+    },
+    "workbench.tree.indent": 16,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.format.enable": false,
+    "typescript.format.enable": false,
+    "eslint.format.enable": true,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.formatOnPaste": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "files.autoSave": "onFocusChange",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.lineHeight": 0,
+    "editor.fontSize": 13,
+    "gitlens.views.commits.files.layout": "list",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+}
